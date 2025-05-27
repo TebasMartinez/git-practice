@@ -1,0 +1,3 @@
+Name: Tebas
+Age: 31
+Favorite Color: Red
